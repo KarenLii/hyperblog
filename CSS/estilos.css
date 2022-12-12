@@ -5,12 +5,12 @@ body {
     color: blue;
 }
 #cabecera {
-    background-color: #33A;
+    background: #33A url("./images/dragon.png");
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0 5rem;
+    padding: 0 5rem 0 0 5rem 2rem;
 }
 #cabecera #tagline {
     padding: 0 0 0 1rem;
